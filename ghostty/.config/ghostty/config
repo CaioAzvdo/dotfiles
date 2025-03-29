@@ -36,8 +36,9 @@
 #
 # # Empty values are used to reset config keys to default.
 # key =
-background-opacity = 0.85
+background-opacity = 0.90
 window-decoration = auto
+command = /bin/tmux a
 command = /bin/tmux
 # # Some config options have unique syntaxes for their value,
 # # which is explained in the docs for that config option.
