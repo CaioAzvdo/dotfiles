@@ -1,12 +1,13 @@
 {
     "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
     "logo": {
-        "type": "builtin",
-        "height": 10,
-        "width": 15,
+        "source":"~/.config/fastfetch/images/lainblueiconpfp.jpg",
+        "type": "kitty",
+        "height": 18,
+
         "padding": {
-            "top": 5,
-            "left": 3
+            "top": 1,
+
         }
     },
     "modules": [
